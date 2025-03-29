@@ -19,7 +19,7 @@
 📌 Versionamento de código com **Git e GitHub**  
 
 ## 📫 Como me encontrar  
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&custom_title=jorge-william-santana)](www.linkedin.com/in/jorgewilliamsantana)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&custom_title=jorgewilliamsantana)](http://www.linkedin.com/in/jorgewilliamsantana)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5511959031372)
 <a href="mailto:jorge_william92@hotmail.com">
 <img src="https://media.tenor.com/YyvztaMcEiMAAAAi/message-notification.gif" width="50px"></a>
